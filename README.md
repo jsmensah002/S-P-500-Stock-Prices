@@ -1,2 +1,14 @@
-# S-P-500-Stock-Prices
-Historical stock market data for current S&amp;P 500 companies, from 2014-2017. Each record represents a single day of trading, and includes the ticker name, volume, high, low, open and close prices.
+Business Questions: 
+   - Which date in the dataset saw the largest overall trading volume? On that date, which two stocks were traded most?
+   - On which day of the week does volume tend to be highest?
+   - On which date did Amazon (AMZN) see the most volatility, measured by the difference between the high and low price?
+
+Tools: Power BI, Microsoft Excel. 
+
+Dataset: Available upon request.
+
+Business Answers:
+- 24th February 2014 recorded the highest overall trading volume, with VZ and BAC as the two most traded stocks on that date.
+- Wednesday had the highest total trading volume, at 441.7B.
+- AMZN showed its highest volatility on 9th June 2017. 
+                
