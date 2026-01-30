@@ -5,8 +5,6 @@ Business Questions:
 
 Tools: Power BI, Microsoft Excel. 
 
-Dataset: Available upon request.
-
 Business Answers:
 - 24th February 2014 recorded the highest overall trading volume, with VZ and BAC as the two most traded stocks on that date.
 - Wednesday had the highest total trading volume, at 441.7B.
